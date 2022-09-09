@@ -10,6 +10,7 @@ Now, we will be creating the basic Tkinter window using the basic functions and 
 #Step 3: The num_to_words function:-
 In this function, we will be first reading the input given by the user and then convert the value read to words using the num2words function and finally changing the display value to the computed word form of the number.
 #step5: Convert numbers to words using Python Tkinter:-
-![Uploading Screenshot 2022-09-09 133802.jpg…]()
 
 
+
+![Screenshot 2022-09-09 133802](https://user-images.githubusercontent.com/95019541/189305046-e138e677-3e3b-40c2-a6df-15c76ccda2bf.jpg)
